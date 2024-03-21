@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangRui
 - 👀 I’m interested in cowork labs
-- 🌱 I’m currently learning cod and computer systems
+- 🌱 I’m currently learning cod,computer systems and computer graphics.
 - 💞️ I’m looking to collaborate on cpp projects and system-relative labs
 - 📫 How to reach me : contact me with wrui0855@gmail.com
 - 😄 Pronouns: ...
