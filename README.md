@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WangRui
-- 👀 I’m interested in cowork labs
-- 🌱 I’m currently learning cod,computer systems and computer graphics.
-- 💞️ I’m looking to collaborate on cpp projects and system-relative labs
+🌱 I’m currently resarching computer systems and system security and AI-related technologies.
+- 💞️ I’m looking to collaborate on system-relative projects
 - 📫 How to reach me : contact me with wrui0855@gmail.com
 - ⚡ my personal website : https://atrionline.me/
 
